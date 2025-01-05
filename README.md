@@ -13,6 +13,7 @@ The tests include:
 
 • Verify successful login.
 
+
 2. Test Suite: My Info Page Navigation
    
 • Launch OrangeHRM.
