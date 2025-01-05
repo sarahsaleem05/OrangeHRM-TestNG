@@ -5,7 +5,7 @@ This repository contains Selenium WebDriver tests written in Java using TestNG f
 # Overview
 The tests include:
 
-1. Test Suite: Login Verification
+# Test Suite: Login Verification
 
 • Launch OrangeHRM.
 
@@ -14,7 +14,7 @@ The tests include:
 • Verify successful login.
 
 
-2. Test Suite: My Info Page Navigation
+# Test Suite: My Info Page Navigation
    
 • Launch OrangeHRM.
 
