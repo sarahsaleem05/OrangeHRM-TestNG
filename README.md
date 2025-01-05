@@ -1,11 +1,8 @@
 # OrangeHRM-TestNG
 
-This repository contains Selenium WebDriver tests written in Java using TestNG for automating the OrangeHRM demo application.
+This repository contains Selenium WebDriver tests written in Java using TestNG for automating the OrangeHRM demo application. It contains two test suites:
 
-# Overview
-The tests include:
-
-# Test Suite: Login Verification
+# Test Suite 1: Login Verification
 
 • Launch OrangeHRM.
 
@@ -14,7 +11,7 @@ The tests include:
 • Verify successful login.
 
 
-# Test Suite: My Info Page Navigation
+# Test Suite 2: My Info Page Navigation
    
 • Launch OrangeHRM.
 
